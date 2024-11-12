@@ -85,3 +85,11 @@ a = 5.2 + 4
 a = 3 + 1j
 b = 1 + 3j
 print(a + b)
+
+# 12) Realizar una operación de suma de un número real y otro complejo
+
+# In[4]:
+
+
+c = a + 1.61
+print(c)

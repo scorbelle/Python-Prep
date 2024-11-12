@@ -76,3 +76,12 @@ print('La variable 1 es de tipo ', type(var1), ' y la variable 2 es de tipo ', t
 
 
 a = 5.2 + 4
+
+# 11) Realizar una operación de suma de números complejos
+
+# In[2]:
+
+
+a = 3 + 1j
+b = 1 + 3j
+print(a + b)

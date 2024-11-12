@@ -63,7 +63,8 @@ pi = 3.1416
 
 # In[3]:
 
-
+var1 = 'True'
+var2 = True
 
 
 

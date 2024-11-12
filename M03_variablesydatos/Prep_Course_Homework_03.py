@@ -149,7 +149,7 @@ print (27//4)
 # In[2]:
 
 
-
+6 * 4 + 3
 
 
 # 19) Utilizar el operador "+" en una operación donde intervengan solo variables alfanuméricas

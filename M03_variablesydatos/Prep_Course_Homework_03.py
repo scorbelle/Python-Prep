@@ -72,7 +72,7 @@ var2 = True
 
 # In[5]:
 
-
+print('La variable 1 es de tipo ', type(var1), ' y la variable 2 es de tipo ', type(var2))
 
 
 

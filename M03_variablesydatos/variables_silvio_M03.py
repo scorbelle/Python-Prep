@@ -49,6 +49,13 @@ n_complejo = 5 + 5j
 
 type(n_complejo)
 
+# 7) Crear una variable que contenga el valor del número Pi redondeado a 4 decimales
+
+# In[1]:
+
+
+pi = 3.1416
+
 
 
 

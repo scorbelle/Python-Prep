@@ -101,3 +101,9 @@ print(c)
 
 print(3 * 2)
 
+# 14) Mostrar el resultado de elevar 2 a la octava potencia
+
+# In[6]:
+
+
+print(2**8)

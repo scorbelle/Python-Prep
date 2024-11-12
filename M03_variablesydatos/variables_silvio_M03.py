@@ -120,3 +120,10 @@ print(a)
 # In[9]:
 
 print (27//4)
+
+# 17) De la división de 27 entre 4 mostrar solamente el resto
+
+# In[1]:
+
+
+27 % 4

@@ -135,4 +135,19 @@ print (27//4)
 
 6 * 4 + 3
 
+# 19) Utilizar el operador "+" en una operación donde intervengan solo variables alfanuméricas
 
+# In[3]:
+
+
+var1 = 'Buenos '
+var2 = 'Aires'
+print(var1 + var2)
+
+
+# 20) Evaluar si "2" es igual a 2. ¿Por qué ocurre eso?
+
+# In[4]:
+
+
+2 == '2'

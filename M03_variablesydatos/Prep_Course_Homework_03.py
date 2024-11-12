@@ -32,7 +32,7 @@ print(a)
 
 # In[2]:
 
-mi_nombre = Silvio Ariel Corbelle
+mi_nombre = 'silvio ariel corbelle'
 
 
 # 5) Crear una variable que contenga un número complejo

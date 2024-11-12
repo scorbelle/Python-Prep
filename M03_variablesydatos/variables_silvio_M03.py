@@ -115,3 +115,8 @@ print(2**8)
 a = 27 / 4
 print(a)
 
+# 16) De la división anterior solamente mostrar la parte entera
+
+# In[9]:
+
+print (27//4)

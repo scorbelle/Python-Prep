@@ -39,7 +39,7 @@ mi_nombre = 'silvio ariel corbelle'
 
 # In[3]:
 
-
+n_comlejo = 5 + 5j
 
 
 

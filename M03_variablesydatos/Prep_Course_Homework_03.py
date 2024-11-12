@@ -157,7 +157,9 @@ print (27//4)
 # In[3]:
 
 
-
+var1 = 'Buenos '
+var2 = 'Aires'
+print(var1 + var2)
 
 
 # 20) Evaluar si "2" es igual a 2. ¿Por qué ocurre eso?

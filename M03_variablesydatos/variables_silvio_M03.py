@@ -56,6 +56,11 @@ type(n_complejo)
 
 pi = 3.1416
 
+# 8) Crear una variable que contenga el valor 'True' y otra que contenga el valor True. ¿Se trata de lo mismo?
 
+# In[3]:
+
+var1 = 'True'
+var2 = True
 
 

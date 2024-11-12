@@ -16,8 +16,7 @@ print(a)
 # In[3]:
 
 type(8.5)
-float
-print (float)
+
 
 
 
@@ -25,7 +24,7 @@ print (float)
 
 # In[8]:
 
-
+print(a)
 
 
 

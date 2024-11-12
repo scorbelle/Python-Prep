@@ -191,7 +191,9 @@ a = float('3,8')
 # In[15]:
 
 
-
+a = -3
+a -= 1
+print(a)
 
 
 # 24) Realizar la operacion 1 << 2 ¿Por qué da ese resultado? ¿Qué es el sistema de numeración binario?

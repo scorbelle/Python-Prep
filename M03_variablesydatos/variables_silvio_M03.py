@@ -207,3 +207,13 @@ int(2) + int('2')
 
 
 str(2) + str('2')
+
+
+# 26) Realizar una operación válida entre valores de tipo entero y string
+
+# In[30]:
+
+
+var1 = 'este texto se repite '
+var2 = 3
+print(var1 * var2 + str(var2) + ' veces')

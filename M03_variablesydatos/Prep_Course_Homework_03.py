@@ -175,7 +175,7 @@ print(var1 + var2)
 # In[11]:
 
 
-
+2 == int('2')
 
 
 # 22) ¿Por qué arroja error el siguiente cambio de tipo de datos? a = float('3,8')

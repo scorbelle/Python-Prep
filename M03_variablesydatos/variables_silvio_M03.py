@@ -127,3 +127,12 @@ print (27//4)
 
 
 27 % 4
+
+# 18) Utilizando como operandos el número 4 y los resultados obtenidos en los puntos 16 y 17. Obtener 27 como resultado
+
+# In[2]:
+
+
+6 * 4 + 3
+
+

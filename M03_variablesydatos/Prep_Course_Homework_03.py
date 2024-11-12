@@ -39,7 +39,7 @@ mi_nombre = 'silvio ariel corbelle'
 
 # In[3]:
 
-n_comlejo = 5 + 5j
+n_complejo = 5 + 5j
 
 
 
@@ -47,7 +47,7 @@ n_comlejo = 5 + 5j
 
 # In[4]:
 
-
+type(n_complejo)
 
 
 

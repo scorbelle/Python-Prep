@@ -151,3 +151,10 @@ print(var1 + var2)
 
 
 2 == '2'
+
+# 21) Utilizar las funciones de cambio de tipo de dato, para que la validación del punto 20 resulte verdadera
+
+# In[11]:
+
+
+2 == int('2')

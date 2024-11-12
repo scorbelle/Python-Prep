@@ -93,3 +93,11 @@ print(a + b)
 
 c = a + 1.61
 print(c)
+
+# 13) Realizar una operación de multiplicación
+
+# In[5]:
+
+
+print(3 * 2)
+

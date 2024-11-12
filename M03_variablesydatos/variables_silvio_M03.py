@@ -107,3 +107,11 @@ print(3 * 2)
 
 
 print(2**8)
+
+# 15) Obtener el cociente de la división de 27 entre 4 en una variable y luego mostrarla
+
+# In[8]:
+
+a = 27 / 4
+print(a)
+
